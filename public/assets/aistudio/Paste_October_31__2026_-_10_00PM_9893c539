@@ -1,0 +1,1007 @@
+# MASTER PROMPT: BUILD LEXQUEST AFRICA — THE LEGAL MIND ARENA
+
+## 1. YOUR IDENTITY AND PERSONA
+
+You are an elite multidisciplinary team working as one.
+
+Your combined expertise includes:
+
+1. A computer scientist with decades of experience designing complex information systems.
+2. A principal software engineer and full-stack developer.
+3. A legal researcher specializing in Ghanaian law, constitutional law, African common-law systems and comparative jurisprudence.
+4. A qualified legal education specialist and instructional designer.
+5. A university law lecturer experienced in teaching first-year, intermediate and advanced law students.
+6. A game designer experienced in RPGs, strategy games, adventure games, simulation games and educational games.
+7. A UX/UI designer specializing in human-centered design, interactive storytelling, accessibility and user engagement.
+8. A database architect and AI engineer specializing in document processing, information retrieval, knowledge graphs and retrieval-augmented generation (RAG).
+9. An educational psychologist who understands memory, cognitive load, motivation, deliberate practice and spaced repetition.
+
+Think like a combination of a brilliant law professor, Nintendo game designer, Duolingo learning architect, investigative detective-game developer and senior software engineer.
+
+Your task is to create a genuinely useful, entertaining and academically rigorous African legal education game.
+
+# 2. THE PRODUCT
+
+Product name: LEXQUEST AFRICA.
+
+Tagline: Learn the Law. Master the Cases. Defend Your Reasoning.
+
+Product vision:
+
+Build a beautiful, interactive, mobile-first legal education game that turns freely accessible legal information, legislation, constitutional provisions, court judgments, legal textbooks, academic publications and educational materials into structured, engaging and progressively challenging learning experiences.
+
+The initial target audience is Ghanaian law students.
+
+The platform must subsequently accommodate students in other African countries whose legal systems have common-law foundations.
+
+The game must work for:
+
+- Someone who has just entered law school and knows almost nothing about law.
+- A first-year LLB student.
+- A second- or third-year law student.
+- A final-year law student.
+- A graduate preparing for professional legal education.
+- An advanced student studying complex cases and legal theories.
+- A law enthusiast who wants to understand how law operates in society.
+
+The application must teach, test, challenge and reward students.
+
+It must NOT become another boring multiple-choice quiz website.
+
+It must feel like an adventure in which knowledge, critical thinking, judgment and legal reasoning unlock new achievements.
+
+# 3. RESEARCH: FIND THE KNOWLEDGE FOR THE GAME
+
+You must conduct extensive internet research before creating the educational content.
+
+Prioritize free, publicly accessible and legally reusable material.
+
+Do not assume that everything available to read for free can automatically be copied, redistributed or republished.
+
+Investigate:
+
+A. PRIMARY LEGAL SOURCES
+
+Find:
+- Constitutions.
+- Acts of Parliament.
+- Legislative instruments.
+- Statutory instruments.
+- Regulations.
+- Judicial decisions.
+- Supreme Court judgments.
+- Court of Appeal judgments.
+- High Court judgments.
+- Official gazettes.
+- Rules of court.
+- Treaties and conventions.
+- Customary law materials.
+- Judicial practice directions.
+
+B. SECONDARY LEGAL MATERIALS
+
+Find:
+- Open-access law textbooks.
+- University lecture notes.
+- Law school course outlines.
+- Academic journal articles.
+- Legal research manuals.
+- Legal commentaries.
+- Dissertations that are legitimately accessible.
+- Law review articles.
+- Legal dictionaries and glossaries.
+- Open educational resources.
+- Case summaries.
+- Legal research guides.
+
+C. EDUCATIONAL MATERIALS
+
+Find resources that help explain difficult legal concepts to beginners.
+
+Investigate materials from:
+- Ghanaian universities.
+- African universities.
+- Open-access university repositories.
+- Legal education institutions.
+- International legal education organizations.
+- Reputable open-access academic publishers.
+
+D. FREE RESOURCE DISCOVERY STARTING POINTS
+
+Start with, but do not limit yourself to:
+
+GHANA:
+- GhaLII: https://ghalii.org/
+- Ghana Judiciary: https://www.judicial.gov.gh/
+- Parliament of Ghana: https://www.parliament.gh/
+- Ghana School of Law: https://gslaw.edu.gh/
+- KNUST Faculty of Law: https://law.knust.edu.gh/
+- University of Ghana School of Law: https://law.ug.edu.gh/
+- Ashesi University Law Programme: https://ashesi.edu.gh/
+
+AFRICAN RESOURCES:
+- AfricanLII: https://africanlii.org/
+- Open Law Africa: https://www.openlawafrica.org/
+- Kenya Law: https://kenyalaw.org/
+- NigeriaLII: https://nigerialii.org/
+- MalawiLII: https://malawilii.org/
+- SierraLII: https://sierralii.org/
+- TanzLII: https://tanzlii.org/
+- Uganda Legal Information Institute: https://ulii.org/
+- ZambiaLII: https://zambialii.org/
+- LesothoLII: https://lesotholii.org/
+- NamibLII: https://namiblii.org/
+- ZimLII: https://zimlii.org/
+- EswatiniLII: https://eswatinilii.org/
+
+INTERNATIONAL RESOURCES:
+- Commonwealth Legal Information Institute: https://www.commonlii.org/
+- World Legal Information Institute: https://www.worldlii.org/
+- Law Library of Congress: https://www.loc.gov/
+- Directory of Open Access Books: https://www.doabooks.org/
+- Directory of Open Access Journals: https://doaj.org/
+
+Use additional trustworthy repositories you discover.
+
+IMPORTANT:
+These websites are starting points, not proof that every document on them is current, authoritative or licensed for redistribution.
+
+Check the copyright, licence and usage conditions of each source.
+
+Never bypass paywalls, logins, access restrictions or website security. Respect robots.txt, rate limits and terms of use.
+
+Where republication rights are unclear, retain bibliographic information, a short legally permissible educational summary and a link to the original document instead of copying the entire work.
+
+# 4. GHANA MUST BE THE PRIMARY JURISDICTION
+
+Build Ghana as the first fully developed jurisdiction.
+
+Investigate and organize its legal system thoroughly.
+
+Study the 1992 Constitution of Ghana, including its constitutional supremacy, fundamental human rights, state institutions, separation of powers, judicial authority, legislative authority and other constitutional provisions.
+
+Investigate:
+- Sources of Ghanaian law.
+- Common law.
+- Equity.
+- Legislation.
+- Customary law.
+- Judicial precedent.
+- Court hierarchy.
+- Jurisdiction of courts.
+- Civil procedure.
+- Criminal procedure.
+- Rules of evidence.
+- The legal profession.
+- Legal ethics.
+- Legal research methods.
+- Interpretation of statutes.
+- Constitutional interpretation.
+
+Build a comprehensive Ghanaian curriculum covering:
+
+1. Ghana Legal System and Methods.
+2. Legal Research and Writing.
+3. Constitutional Law.
+4. Contract Law.
+5. Criminal Law.
+6. Law of Torts.
+7. Equity and Trusts.
+8. Land and Immovable Property Law.
+9. Family Law.
+10. Succession.
+11. Law of Evidence.
+12. Civil Procedure.
+13. Criminal Procedure.
+14. Administrative Law.
+15. Company and Commercial Law.
+16. Public International Law.
+17. Human Rights Law.
+18. Jurisprudence.
+19. Alternative Dispute Resolution.
+20. Intellectual Property Law.
+21. Environmental Law.
+22. Employment and Labour Law.
+23. Tax Law.
+24. Cyber Law and Technology Law.
+25. Legislative Drafting.
+
+Research the actual current university and professional legal education requirements. Do not treat any university's syllabus as the universal Ghanaian syllabus. Adapt course paths to the institution and academic year selected by the student.
+
+Pay particular attention to legislative and legal education reforms, including the Legal Education Act, 2026, where applicable. Verify current arrangements from official sources rather than relying on old course information.
+
+# 5. EXPANSION INTO OTHER AFRICAN COMMON-LAW JURISDICTIONS
+
+Design a modular jurisdiction system.
+
+After Ghana, prepare comparative country packs for:
+
+- The Gambia.
+- Kenya.
+- Malawi.
+- Nigeria.
+- Sierra Leone.
+- Tanzania.
+- Uganda.
+- Zambia.
+
+Additional countries may be introduced after independently verifying their legal traditions and mixed legal-system characteristics.
+
+For each country, research:
+
+1. Its constitution.
+2. Its sources of law.
+3. Its court structure.
+4. The hierarchy of judicial precedent.
+5. Its legislation.
+6. Its customary law.
+7. Its fundamental rights.
+8. Its legal education structure.
+9. Its major legal cases.
+10. Its legal research repositories.
+
+CRITICAL RULE:
+
+Never teach a Ghanaian legal rule as though it automatically applies in Nigeria, Kenya or any other African country.
+
+Clearly distinguish:
+- Binding authority.
+- Persuasive authority.
+- Foreign precedent.
+- Local legislation.
+- Constitutional provisions.
+- Regional and international legal instruments.
+
+Every legal question must carry a jurisdiction label.
+
+# 6. TURN THE RESEARCH INTO A LEGAL KNOWLEDGE ENGINE
+
+Do not simply dump documents into a database.
+
+Develop a structured knowledge pipeline.
+
+Every imported document should pass through these stages:
+
+1. Discovery.
+2. Source verification.
+3. Copyright and licence assessment.
+4. Document acquisition or permitted linking.
+5. Text extraction.
+6. Metadata extraction.
+7. Jurisdiction classification.
+8. Subject classification.
+9. Topic identification.
+10. Legal concept extraction.
+11. Case and statutory relationship mapping.
+12. Educational transformation.
+13. Accuracy verification.
+14. Publication.
+
+Create structured knowledge objects.
+
+A CASE OBJECT should contain:
+
+- Case name.
+- Full citation.
+- Court.
+- Country.
+- Year.
+- Judges, when verified.
+- Material facts.
+- Procedural history.
+- Legal issues.
+- Arguments of parties.
+- Relevant law.
+- Holding.
+- Ratio decidendi.
+- Obiter dicta.
+- Court's reasoning.
+- Final outcome.
+- Remedies.
+- Importance of the case.
+- Subsequent judicial treatment, where available.
+- Relevant statutes.
+- Related cases.
+- Source document.
+- Direct source link.
+- Last verification date.
+- Legal status and verification notes.
+
+A STATUTE OBJECT should contain:
+
+- Title.
+- Act or instrument number.
+- Jurisdiction.
+- Enactment date.
+- Commencement date.
+- Current status.
+- Relevant sections.
+- Amendments.
+- Repeal information.
+- Related cases.
+- Plain-language explanation.
+- Source link.
+- Last checked date.
+
+A CONCEPT OBJECT should contain:
+
+- Legal term.
+- Simple definition.
+- Formal legal definition.
+- Explanation for beginners.
+- Advanced explanation.
+- Examples.
+- Related cases.
+- Related statutory provisions.
+- Common misconceptions.
+- Practice questions.
+- Difficulty level.
+
+Create relationships between cases, statutes, topics, principles and legal doctrines.
+
+This knowledge graph should power the student's personal legal knowledge board.
+
+# 7. THE ACTUAL GAME EXPERIENCE
+
+Build a beautiful adventure-style learning experience.
+
+Imagine a world divided into legal territories.
+
+Each territory represents an area of law.
+
+Examples:
+
+THE CONSTITUTIONAL KINGDOM
+Explore constitutional supremacy, fundamental rights, state institutions and constitutional interpretation.
+
+THE CONTRACT CITY
+Investigate offer, acceptance, consideration, intention, capacity, breach and remedies.
+
+THE CRIMINAL JUSTICE REALM
+Investigate elements of offences, criminal responsibility, defences, evidence and procedure.
+
+THE TORTS TERRITORY
+Solve disputes involving negligence, nuisance, trespass, defamation and other civil wrongs.
+
+THE COURT OF APPEAL ARENA
+Analyse judgments, identify legal errors and argue appeals.
+
+THE LAND AND CUSTOMARY LAW DISTRICT
+Investigate ownership, possession, family land, customary interests and land disputes.
+
+THE INTERNATIONAL JUSTICE GATEWAY
+Explore international law, human rights, regional institutions and comparative jurisprudence.
+
+Students unlock these territories as their legal knowledge improves.
+
+Each territory contains:
+- Missions.
+- Lessons.
+- Case investigations.
+- Challenges.
+- Quizzes.
+- Legal battles.
+- Scenario simulations.
+- Boss levels.
+- Achievement opportunities.
+
+# 8. THREE LEARNING DIFFICULTY LEVELS
+
+Create three interconnected learning paths.
+
+BEGINNER MODE: THE APPRENTICE
+
+Audience: New law students and beginners.
+
+Teach concepts as though the learner has never encountered law before.
+
+Explain unfamiliar language in everyday English.
+
+For example:
+
+Instead of simply saying:
+
+"Consideration is an essential element of contract formation."
+
+Explain:
+
+"Imagine you promise to sell your laptop to someone for GH₵3,000. They promise to pay the money and you promise to transfer the laptop. What is each side giving or promising? That exchange helps explain consideration."
+
+Use:
+- Simple examples.
+- Illustrated explanations.
+- Short stories.
+- Definitions.
+- Matching games.
+- Flashcards.
+- Multiple-choice questions.
+- Fill-in-the-gap challenges.
+- Short interactive scenarios.
+
+INTERMEDIATE MODE: THE LEGAL INVESTIGATOR
+
+Audience: Students with foundational knowledge.
+
+Introduce:
+- Case analysis.
+- Legal issue identification.
+- Statutory interpretation.
+- Application of legal rules.
+- Precedent.
+- Legal reasoning.
+- Contrasting judgments.
+- Short legal opinions.
+
+Require the student to explain WHY an answer is correct.
+
+ADVANCED MODE: THE ADVOCATE
+
+Audience: Advanced students and professional legal education candidates.
+
+Introduce:
+- Complex legal scenarios.
+- Multiple competing legal issues.
+- Conflicting authorities.
+- Statutory interpretation problems.
+- Constitutional challenges.
+- Advanced case analysis.
+- Moot court.
+- Legal drafting.
+- Legal research exercises.
+- Policy arguments.
+- Appellate reasoning.
+
+Reward strong reasoning, not merely memorized information.
+
+Allow the student to move between levels depending on demonstrated competence.
+
+# 9. MAKE CASE LAW INTERESTING
+
+A major part of the game must be learning through real cases.
+
+Turn actual judgments into interactive investigations.
+
+Every case investigation should follow this pattern:
+
+STAGE 1: DISCOVER THE FACTS
+
+Present the material facts in an engaging narrative.
+
+Do not initially reveal the court's decision.
+
+STAGE 2: IDENTIFY THE PROBLEM
+
+Ask the player to identify the legal issues.
+
+STAGE 3: FIND THE LAW
+
+Present relevant statutes, legal principles and potentially applicable precedents.
+
+STAGE 4: BUILD THE ARGUMENT
+
+Let the player construct arguments for both sides.
+
+STAGE 5: DELIVER THE JUDGMENT
+
+Ask the player to decide the dispute and explain their reasoning.
+
+STAGE 6: REVEAL THE ACTUAL DECISION
+
+Show what the real court decided.
+
+Explain:
+- What the court decided.
+- Why it decided that way.
+- What the ratio decidendi was.
+- Whether there were important obiter observations.
+- Whether the student's reasoning was sound.
+- What the student missed.
+- What alternative arguments could have been made.
+
+Show the real citation and link to the original judgment.
+
+Clearly distinguish the original case from any fictionalized learning adaptation.
+
+# 10. SCENARIO-BASED LEARNING ENGINE
+
+This is one of the most important features.
+
+Create a system that generates realistic legal scenarios from verified legal principles.
+
+Examples of Ghanaian scenarios:
+
+SCENARIO A: THE CONTRACT DISPUTE
+
+A furniture maker in Kumasi agrees to build furniture for a customer. The customer pays a deposit. The maker misses the delivery date and refuses to return the money.
+
+Ask the student:
+- Was a contract formed?
+- What were the terms?
+- Was there a breach?
+- What remedies might be available?
+- What additional facts would matter?
+
+SCENARIO B: THE CONSTITUTIONAL CHALLENGE
+
+A public authority makes a decision that allegedly interferes with a citizen's constitutional rights.
+
+Ask:
+- What right is involved?
+- What constitutional provisions apply?
+- What limitations might be relevant?
+- Which court or procedure could be relevant?
+- What remedies could be considered?
+
+SCENARIO C: THE LAND DISPUTE
+
+Two families claim ownership of a parcel of land.
+
+Introduce conflicting documents, customary interests, historical evidence and witness testimony.
+
+Ask the student to examine ownership, possession, applicable law and available remedies.
+
+SCENARIO D: THE CRIMINAL INVESTIGATION
+
+A fictional person is accused of a criminal offence.
+
+Provide witness statements, physical evidence, contradictions and procedural details.
+
+Ask the player to assess:
+- The elements of the alleged offence.
+- The evidence.
+- The prosecution's burden.
+- Possible defences.
+- Procedural issues.
+- Whether the evidence supports the allegation.
+
+Create dozens of original scenarios across subjects and difficulty levels.
+
+Never present an invented fact pattern as a real legal case.
+
+Each scenario should carry its own legal source references and a model answer with a reasoned explanation.
+
+# 11. USE IRAC AND OTHER LEGAL REASONING METHODS
+
+Teach the player to reason systematically.
+
+Use IRAC:
+
+I — Issue.
+R — Rule.
+A — Application.
+C — Conclusion.
+
+Also teach relevant alternatives such as ILAC and CREAC.
+
+For every major legal scenario, evaluate:
+
+1. Did the student identify the correct issue?
+2. Did the student identify the relevant legal rule?
+3. Did the student identify supporting authority?
+4. Did the student apply the rule to the facts?
+5. Did the student address arguments on both sides?
+6. Did the student arrive at a reasoned conclusion?
+
+Award partial credit.
+
+Do not reward unsupported conclusions simply because they match the model answer.
+
+# 12. THE POINT AND REWARD SYSTEM
+
+Create a meaningful progression system.
+
+Students earn XP (experience points).
+
+Possible scoring:
+
+- Correct basic answer: 10 XP.
+- Correct concept explanation: 15 XP.
+- Correct legal issue identification: 20 XP.
+- Correct authority selection: 25 XP.
+- Strong application of the law: 30 XP.
+- Good counterargument: 15 XP.
+- Excellent legal reasoning: 30 XP.
+- Successful case investigation: 50 XP.
+- Completed moot court: 100 XP.
+- Excellent advanced judgment: 150 XP.
+
+These are initial balancing values; test and adjust them.
+
+Create:
+
+- Levels.
+- XP.
+- Coins or achievement credits.
+- Badges.
+- Daily challenges.
+- Weekly challenges.
+- Streaks.
+- Achievements.
+- Unlockable content.
+- Topic mastery.
+- Student rankings.
+- Personal records.
+- Progress dashboards.
+
+Possible badges:
+
+First Case Solved.
+Constitutional Guardian.
+Contract Detective.
+Criminal Law Investigator.
+Master of Precedent.
+Statute Interpreter.
+Legal Researcher.
+Moot Court Champion.
+Justice Architect.
+The Legal Eagle.
+
+Do not allow students to accumulate points by repeatedly answering the same easy questions.
+
+Introduce progressive difficulty, spaced repetition and mastery requirements.
+
+# 13. GAME MODES
+
+Build these game modes:
+
+1. QUICKFIRE LAW: Short timed questions.
+2. CASE DETECTIVE: Investigate a real judgment.
+3. WHO IS RIGHT?: Compare competing arguments.
+4. MOOT COURT: Argue for the prosecution, defence or appellant/respondent as appropriate.
+5. THE LAWYER'S CHALLENGE: Solve a complex fictional client problem.
+6. STATUTE HUNTER: Find the correct legal provision and interpret it.
+7. LEGAL ESCAPE ROOM: Solve connected legal puzzles to progress.
+8. JUDGE'S CHAMBERS: Evaluate facts, law and arguments before delivering a reasoned judgment.
+9. DAILY LAW: One new learning challenge every day.
+10. EXAMINATION MODE: Simulated law-school examinations.
+11. CASE CONNECTIONS: Connect judgments, doctrines and statutory provisions.
+12. DEBATE ARENA: Evaluate competing legal positions.
+13. LEGAL RESEARCH QUEST: Locate and validate legal authorities.
+14. DRAFTING CHALLENGE: Practice legal letters, pleadings, opinions and other appropriate documents.
+
+For suitable challenges, support solo play and optional multiplayer competitions.
+
+# 14. THE STUDENT KNOWLEDGE BOARD
+
+Build a personal knowledge dashboard.
+
+It should show:
+
+- Current level.
+- Total XP.
+- Subject mastery.
+- Cases studied.
+- Statutes explored.
+- Questions answered.
+- Weak topics.
+- Strong topics.
+- Recent mistakes.
+- Achievements.
+- Learning streak.
+- Revision schedule.
+- Completed missions.
+- Unlocked territories.
+- Upcoming challenges.
+
+Create interactive visual maps connecting:
+
+- Legal principles.
+- Leading cases.
+- Statutory provisions.
+- Constitutional articles.
+- Legal doctrines.
+- Related legal subjects.
+
+Allow the student to save:
+- Favourite cases.
+- Important statutory provisions.
+- Personal notes.
+- Flashcards.
+- Difficult questions.
+- Bookmarked legal sources.
+
+Students must be able to revisit anything they previously learned.
+
+# 15. SMART TEACHING AND ADAPTIVE LEARNING
+
+Create an intelligent learning engine.
+
+Do not give every student the same questions in the same order.
+
+Track learning performance.
+
+If a student struggles with offer and acceptance, identify the weakness and provide simpler explanations, fresh scenarios and further practice.
+
+If a student demonstrates mastery, introduce more complex problems.
+
+Use:
+- Spaced repetition.
+- Active recall.
+- Retrieval practice.
+- Progressive difficulty.
+- Worked examples.
+- Immediate feedback.
+- Interleaved practice.
+- Reflection and self-explanation.
+
+After every mistake, teach.
+
+Do not merely display "Wrong Answer."
+
+Explain the mistake, show the relevant principle, provide authority and offer another opportunity to solve a similar problem.
+
+# 16. SOURCE ACCURACY AND LEGAL SAFETY
+
+This is NON-NEGOTIABLE.
+
+Never invent:
+- Court cases.
+- Case citations.
+- Statutes.
+- Constitutional provisions.
+- Judicial quotations.
+- Legal principles.
+- Court decisions.
+- Legal authorities.
+
+Every legal teaching item must be traceable to a source.
+
+Every item must have:
+- Jurisdiction.
+- Source name.
+- Source link.
+- Document title.
+- Citation, where applicable.
+- Relevant page, paragraph or section.
+- Date of publication or judgment, where known.
+- Date last verified.
+- Verification status.
+- Content reuse status.
+
+Use primary legal authority wherever possible.
+
+If two sources conflict, flag the conflict and prioritize verified authoritative material.
+
+Differentiate current law from repealed, amended, historical or uncertain law.
+
+Never assume an old statutory provision remains in force.
+
+Clearly indicate when legal materials have not been independently checked.
+
+For AI-generated educational explanations, link back to the source material.
+
+Implement a reviewer workflow so a qualified Ghanaian legal educator or lawyer can inspect and approve content before it is published as verified.
+
+This is an educational product, not a substitute for a lawyer or formal legal advice.
+
+# 17. DESIGN AND USER EXPERIENCE
+
+The visual experience must be exceptional.
+
+Make the interface feel like a premium adventure game rather than a university learning management system.
+
+Design direction:
+
+- Beautiful, polished interface.
+- African-inspired visual identity without clichés.
+- Modern typography.
+- Excellent visual hierarchy.
+- Smooth animations.
+- Interactive progress maps.
+- Attractive legal knowledge cards.
+- Engaging illustrations.
+- Clear progress indicators.
+- Responsive layouts.
+- Accessible colour contrast.
+- Friendly onboarding.
+- Engaging sound effects with mute controls.
+- Optional dark mode.
+
+The experience must be welcoming to beginners without looking childish to advanced law students.
+
+Build for mobile first.
+
+Assume some students have low-end devices and limited internet data.
+
+Optimize loading speed, document sizes, images and animations.
+
+Create offline-friendly lessons and saved progress.
+
+# 18. TECHNICAL ARCHITECTURE
+
+Build using a modern, maintainable and open-source technology stack.
+
+Preferred starting stack:
+
+- TypeScript.
+- React.
+- Next.js.
+- Tailwind CSS.
+- IndexedDB for local-first student progress.
+- A suitable open-source database for server-backed functionality when needed.
+- Progressive Web App functionality.
+- Accessible component architecture.
+
+Use free development tools and open-source libraries.
+
+Avoid paid APIs, mandatory subscriptions, paid AI inference and paid assets.
+
+Do not require an API key for the core game to work.
+
+Implement the content engine so educational materials can be imported without a paid AI provider.
+
+Use AI integrations only as optional extensions.
+
+Include:
+- Document import.
+- PDF text extraction.
+- HTML ingestion where permitted.
+- DOCX and text import.
+- Manual document metadata entry.
+- JSON/CSV educational content import.
+- Local progress persistence.
+- Export and import of student progress.
+- Search and filtering.
+- Source management.
+- Content moderation and verification states.
+
+Design the data model for future expansion.
+
+Suggested entities:
+
+UserProfile
+Jurisdiction
+Subject
+Topic
+LegalSource
+LegalDocument
+Case
+Statute
+LegalConcept
+LearningObjective
+Lesson
+Question
+Scenario
+AnswerRubric
+GameMission
+Achievement
+UserProgress
+XPTransaction
+Flashcard
+ReviewSchedule
+KnowledgeRelationship
+ContentReview
+
+Store scores as individual transactions rather than only keeping a mutable total.
+
+Ensure that progress cannot accidentally be duplicated when a user refreshes or retries a mission.
+
+Build the application so more jurisdictions can be added without rebuilding the entire platform.
+
+# 19. THE FIRST VERSION MUST BE PLAYABLE
+
+Do not spend all your effort building architecture while leaving an empty game.
+
+Build a working MVP with:
+
+1. A welcoming homepage.
+2. Student onboarding.
+3. Ghana jurisdiction selection.
+4. Beginner, intermediate and advanced paths.
+5. At least five foundational law subjects.
+6. A knowledge map.
+7. Case study cards.
+8. Interactive lessons.
+9. At least 30 properly sourced learning questions.
+10. At least 10 original scenarios.
+11. At least three interactive case investigations.
+12. At least one complete moot court experience.
+13. XP and scoring.
+14. Achievements.
+15. Student progress dashboard.
+16. Saved notes and flashcards.
+17. Spaced revision.
+18. Source citations and verification labels.
+
+Use real, verified Ghanaian legal materials in the initial learning pack.
+
+Where material needs legal review, clearly mark it as pending review rather than pretending it has been validated.
+
+# 20. DEVELOPMENT PROCESS
+
+Work systematically.
+
+PHASE 1: RESEARCH
+
+Discover and categorize free legal resources.
+
+Produce a resource registry with URLs, jurisdiction, content types, accessibility and reuse conditions.
+
+PHASE 2: CURRICULUM
+
+Build the Ghana-first curriculum and map learning objectives to verified legal authorities.
+
+PHASE 3: INFORMATION ARCHITECTURE
+
+Design the legal knowledge graph, educational content model and game progression system.
+
+PHASE 4: UI/UX
+
+Create wireframes, design system, visual language and main game journeys.
+
+PHASE 5: IMPLEMENTATION
+
+Build the frontend, content engine, database, progression system and interactions.
+
+PHASE 6: CONTENT POPULATION
+
+Populate the first Ghanaian learning modules using the research pipeline.
+
+PHASE 7: TESTING
+
+Test:
+- Correctness of scoring.
+- XP persistence.
+- Question validity.
+- Citation accuracy.
+- Responsive layouts.
+- Offline functionality.
+- Accessibility.
+- Progress recovery.
+- Jurisdiction separation.
+- Performance.
+- Security.
+
+PHASE 8: DEPLOYMENT
+
+Provide clear deployment instructions using an appropriate free hosting option.
+
+Document limitations of free-tier services.
+
+# 21. FINAL PRODUCT STANDARD
+
+I do not want a basic prototype that looks attractive but has no educational substance.
+
+I want a real educational game.
+
+The player must leave each session with something learned.
+
+The student must be able to understand difficult concepts, identify legal issues, reason from authority, argue different positions and develop the confidence to approach legal problems independently.
+
+Every interaction must serve a learning objective.
+
+Every game mechanic must support educational progress.
+
+Every legal assertion must have traceable authority.
+
+Every jurisdiction must have its own legal identity.
+
+The game should be enjoyable enough that students voluntarily return every day, and academically meaningful enough that lecturers can recommend it.
+
+# 22. HOW TO WORK WITH ME
+
+Start by inspecting the existing project and available development tools.
+
+If no project exists, create the project structure.
+
+Do not stop after writing a research report or development plan.
+
+Make sensible decisions independently and implement the working product.
+
+Prioritize a functional Ghanaian MVP over trying to cover every African country at once.
+
+If a resource is unavailable, document the gap and find an appropriate alternative.
+
+If an integration requires payment, design a free alternative.
+
+Do not fabricate educational content to fill empty sections.
+
+Maintain a README explaining the product, setup, architecture, data sources, contribution guidelines, copyright policy and deployment.
+
+Create a ROADMAP documenting future functionality.
+
+Your ultimate goal:
+
+BUILD LEXQUEST AFRICA — A GAME THAT TRAINS THE NEXT GENERATION OF AFRICAN LEGAL MINDS TO UNDERSTAND, ANALYSE, APPLY AND DEFEND THE LAW.
+
+Start now.

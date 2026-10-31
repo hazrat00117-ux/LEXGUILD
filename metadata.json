@@ -1,0 +1,7 @@
+{
+  "name": "LEXQUEST AFRICA — The Legal Mind Arena",
+  "description": "Learn the Law. Master the Cases. Defend Your Reasoning. The premier interactive African legal education and case-law adventure game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
